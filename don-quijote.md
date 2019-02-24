@@ -1,17 +1,13 @@
-En un lugar de los Repos,
 
-de cuyo commit no quiero acordarme,
 
-no ha mucho log que vivía
 
-un hidalgo de los de head en master,
+<p>En un lugar de los <em>Repos</em>,</p>
 
-push antiguo,
+<p>de cuyo <em>commit</em> no quiero acordarme,</p>
 
-git flaco y remote corredor.
+<p>no ha mucho <em>log</em> que vivía</p>
 
+<<<<<<< HEAD
 git commit -m “Don Quijote de la Mancha”
-
-
 
 
